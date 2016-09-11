@@ -1,0 +1,21 @@
+- Twitter gives you a timestamp
+- People post image + tweet
+- Lots of text and shallow analysis
+- Describe the event based on the videos
+- Q: What can the text give to the information captured in the multimedia?
+- Q: How does this compliment the multimedia?
+- Q: What are the complimentary issues?
+- Q: How much can you get from Twitter only?
+- Q: How often it mentions locations/persons/indications?
+- Initially try to take out the images that are not relevant to the event (individuals, selfie)
+- Problem example: Understand a map for guideline on the events
+- Ask PoYaoh about the Tweets for Dallas
+- Q: Which tweets are geolocatable?
+- Q: The result from this pictures/hashtags, what do they tell?
+- Look into location names, persons, hashtags
+- Analyze the speed of appearance into the timeline from the first related tweet
+- Possible result: we can extract this information abou the event. 
+- Deeper understanding.
+- Twitter geolocation Gellartr
+- Comparison of what is in the text and not in the video, what's in the video and is not in the text. Analogous with image and text.
+- Can we verify fact-checking the news the performance of the system.
